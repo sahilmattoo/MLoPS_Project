@@ -18,4 +18,4 @@ def train_model(corpus, target, model, model_name):
     accuracy = accuracy_score(Y_test, y_pred)
     return vectorizer, accuracy
 
-    
+

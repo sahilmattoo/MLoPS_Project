@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sam/Desktop/AIMLX/GitHub/MLoPS_Project/mlruns/817550524298560976/b1a64c967846410bb2bdd69402b31d1e/artifacts
+end_time: 1722589401894
+entry_point_name: ''
+experiment_id: '817550524298560976'
+lifecycle_stage: active
+run_id: b1a64c967846410bb2bdd69402b31d1e
+run_name: run_3
+run_uuid: b1a64c967846410bb2bdd69402b31d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722589400361
+status: 3
+tags: []
+user_id: sam
